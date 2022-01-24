@@ -14,8 +14,8 @@ const initdb = async () =>
 
 // TODO: Add logic to a method that accepts some content and adds it to the database
 export const putDb = async (content) => {
-  console.error('putDb not implemented');
-  onsole.log('Post to the database');
+  // console.error('putDb not implemented');
+  console.log('Post to the database');
 
   // Create a connection to the database database and version we want to use.
   const jateDb = await openDB('jate', 1);
@@ -46,12 +46,14 @@ export const getDb = async () => {
     const store = tx.objectStore('jate');
   
     // Use the .getAll() method to get all data in the database.
-    const request = store.getAll();
+    const request = store.getAll(1);
   
     // Get confirmation of the request.
     const result = await request;
-    console.log('result.value', result);
-    return result;
+  console.log('result.value', result);
+  // this fixes the e.spilt error
+  // the ?. will handle a null case
+    return result?.value;
   
 }
 
