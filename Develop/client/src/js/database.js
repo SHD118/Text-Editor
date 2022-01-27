@@ -1,4 +1,5 @@
 import { openDB } from 'idb';
+import { EvalSourceMapDevToolPlugin } from 'webpack';
 
 const initdb = async () =>
   openDB('jate', 1, {
@@ -53,7 +54,13 @@ export const getDb = async () => {
   console.log('result.value', result);
   // this fixes the e.spilt error
   // the ?. will handle a null case
-    return result?.value;
+  if (result.value !== null) {
+    return result.value
+  }
+  else {
+    console.log("bad boy")
+    return;
+    }
   
 }
 
