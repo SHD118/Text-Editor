@@ -1,5 +1,5 @@
 import { openDB } from 'idb';
-import { EvalSourceMapDevToolPlugin } from 'webpack';
+// import { EvalSourceMapDevToolPlugin } from 'webpack';
 
 const initdb = async () =>
   openDB('jate', 1, {
