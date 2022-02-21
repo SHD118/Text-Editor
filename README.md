@@ -63,14 +63,14 @@ N/A
 Free Use
 ## Screenshots
 
-![Demonstration of the finished Unit 19 Homework being used in the browser and then installed.](./Assets/00-demo.gif)
+![Demonstration of the finished Unit 19 Homework being used in the browser and then installed.](./Assets/Capture1.PNG)
 
 
 
-![Demonstration of the finished Unit 19 Homework with a manifest file in the browser.](./Assets/01-manifest.png)
+![Demonstration of the finished Unit 19 Homework with a manifest file in the browser.](./Assets/Capture3.PNG)
 
 
-![Demonstration of the finished Unit 19 Homework with a registered service worker in the browser.](./Assets/02-service-worker.png)
+![Demonstration of the finished Unit 19 Homework with a registered service worker in the browser.](./Assets/Capture2.PNG)
 
 
 
