@@ -81,6 +81,7 @@ Want to see more of my work? [Github Link](https://github.com/SHD118)
 Want to learn more please contact me at shdesai118@gmail.com
 ## Links
 https://github.com/SHD118/Text-Editor
+<br/>
 https://guarded-lowlands-41872.herokuapp.com/
 ## Resources
 https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps
