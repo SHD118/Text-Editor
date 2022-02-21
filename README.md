@@ -70,11 +70,10 @@ Free Use
 ![Demonstration of the finished Unit 19 Homework with a manifest file in the browser.](./Assets/Capture3.PNG)
 
 
-![Demonstration of the finished Unit 19 Homework with a registered service worker in the browser.](./Assets/Capture2.PNG)
+![Demonstration of the finished Unit 19 Homework with a registered service worker in the browser.](./Assets/Capture.PNG)
 
 
 
-![Demonstration of the finished Unit 19 Homework with a IndexedDB storage named 'jate' in the browser.](./Assets/03-idb-storage.png)
 
 ## Questions?
 Want to see more of my work? [Github Link](https://github.com/https://github.com/SHD118/ReadMe-Generator#resources/credit)
