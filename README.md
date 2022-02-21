@@ -15,7 +15,7 @@ This project covers J.A.T.E (ust another text editor). JATE is a text editor tha
 7. [ Screenshots. ](#screenshots)
 8. [ Questions. ](#questions)
 9.  [ Video. ](#video)
-10. [ Resources. ](#resources
+10. [ Resources. ](#resources)
 11. 
 ## User_Story
 
