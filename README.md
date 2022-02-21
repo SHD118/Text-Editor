@@ -14,7 +14,7 @@ This project covers J.A.T.E (ust another text editor). JATE is a text editor tha
 6. [ License. ](#license)
 7. [ Screenshots. ](#screenshots)
 8. [ Questions. ](#questions)
-9.  [ Video. ](#video)
+9.  [ Links. ](#links)
 10. [ Resources. ](#resources)
 11. 
 ## User_Story
@@ -63,14 +63,14 @@ N/A
 Free Use
 ## Screenshots
 
-![Demonstration of the finished Unit 19 Homework being used in the browser and then installed.](./Assets/Capture1.PNG)
+![image ](./Assets/Capture.PNG)
 
 
 
-![Demonstration of the finished Unit 19 Homework with a manifest file in the browser.](./Assets/Capture3.PNG)
+![image](./Assets/Capture3.PNG)
 
 
-![Demonstration of the finished Unit 19 Homework with a registered service worker in the browser.](./Assets/Capture.PNG)
+![image](./Assets/Capture.PNG)
 
 
 
@@ -79,10 +79,12 @@ Free Use
 Want to see more of my work? [Github Link](https://github.com/https://github.com/SHD118/ReadMe-Generator#resources/credit)
 <br/>
 Want to learn more please contact me at shdesai118@gmail.com
-## Video
- https://drive.google.com/file/d/1rQQT7idQ2ODiTGxkoxeC3iyla_KRsrwi/view?usp=sharing
+## Links
+https://github.com/SHD118/Text-Editor
+https://guarded-lowlands-41872.herokuapp.com/
 ## Resources
-https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba
+https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps
+https://developers.google.com/web/tools/lighthouse
 
 
 
