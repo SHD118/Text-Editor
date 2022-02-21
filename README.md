@@ -76,7 +76,7 @@ Free Use
 
 
 ## Questions?
-Want to see more of my work? [Github Link](https://github.com/https://github.com/SHD118/ReadMe-Generator#resources/credit)
+Want to see more of my work? [Github Link](https://github.com/SHD118)
 <br/>
 Want to learn more please contact me at shdesai118@gmail.com
 ## Links
