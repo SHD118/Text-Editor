@@ -2,7 +2,7 @@
 
 ## Your Task
 
-This project covers J.A.T.E (ust another text editor). JATE is a text editor that runs in the browser. This is a single-page application that meets the PWA criteria. 
+This project covers J.A.T.E (ust another text editor). JATE is a text editor that runs in the browser. This is a single-page application that meets the PWA criteria. One important concept from this project I learned was leveraging service workers. I was able to leverage to cache static CSS, JavaScript, HTML files, images, and even API requests. This allows developers to reduce network bandwidth and improve overall load times.
 
 [![License](https://img.shields.io/badge/License-BSD_2--Clause-orange.svg)](https://opensource.org/licenses/BSD-2-Clause)
 ## Table of Contents
